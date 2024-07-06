@@ -1,4 +1,4 @@
-# LLM Instruction Finetuning Project
+# LLM Instruction Finetuning
 
 This project demonstrates the process of finetuning a GPT-2 medium model for instruction following
 
